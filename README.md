@@ -6,7 +6,7 @@ This is a HTML5/Javascript implementation of a scanner that makes a comparison b
 var z = "AAAAAACAGGTGAGTAAAAAGCCCGGATTTTTTTTTTTCGCGCGGCGCGGCGGCATTTATTTTCTATTTATCTTCTCTTCTCTTTCTCTTAAAA";
 ```
 
-Note that on the interface the z sequence can be modified by the user in real-time. This comparison is made to highlight the qualitative differences between information entropy and the new method of information content described as a primary source in the book entitled <i>[Algorithms in Bioinformatics: Theory and Implementation](https://books.google.ro/books?id=y1I5EAAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)</i>. Below, the black line represents the Shannon Entropy and the red line represents the information content over the <i>z</i> sequence.
+Note that on the interface the z sequence can be modified by the user in real-time. This comparison is made to highlight the qualitative differences between information entropy and the new method of information content described as a primary source in the book entitled <i>[Algorithms in Bioinformatics: Theory and Implementation](https://books.google.ro/books?id=y1I5EAAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)</i>. Below, the black line represents the Shannon Entropy and the red line represents the information content over the <i>z</i> sequence. For those interested in the application's chart, it can be downloaded from [here](https://github.com/Gagniuc/World-smallest-js-chart-v1.0).
 
 Live demo: https://gagniuc.github.io/Information-Content-vs-Information-Entropy/
 
