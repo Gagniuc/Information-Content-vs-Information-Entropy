@@ -8,10 +8,9 @@ var z = "AAAAAACAGGTGAGTAAAAAGCCCGGATTTTTTTTTTTCGCGCGGCGCGGCGGCATTTATTTTCTATTTAT
 
 Note that on the interface the z sequence can be modified by the user in real-time. This comparison is made to highlight the qualitative differences between information entropy and the new method of information content described as a primary source in the book entitled <i>[Algorithms in Bioinformatics: Theory and Implementation](https://books.google.ro/books?id=y1I5EAAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)</i>. Below, the black line represents the Shannon Entropy and the red line represents the information content over the <i>z</i> sequence. For those interested in the application's chart, it can be downloaded from [here](https://github.com/Gagniuc/World-smallest-js-chart-v1.0).
 
-Live demo: https://gagniuc.github.io/Information-Content-vs-Information-Entropy/
+**Live demo**: https://gagniuc.github.io/Information-Content-vs-Information-Entropy/
 
-<kbd><img src="https://github.com/Gagniuc/Information-content-red-vs-Information-entropy-black-/blob/main/%5BG%5D%20Information%20content%20vs%20Information%20entropy.png" /></kbd>
-
+<kbd><img src="https://github.com/Gagniuc/Information-Content-vs-Information-Entropy/blob/main/img/Information%20content%20vs%20Information%20entropy.png?raw=true" /></kbd>
 
 # References
 
